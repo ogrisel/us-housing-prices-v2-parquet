@@ -1,0 +1,4 @@
+*.duckdb
+*.duckdb.wal
+*.parquet
+.ipynb_checkpoints
